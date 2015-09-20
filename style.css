@@ -1,0 +1,39 @@
+html{
+background-image: url("pics/Lunch_Time_Wallpaper_by_neocron.jpg");
+}
+
+#header{
+width:100%;
+height:40px;
+font-size: 16px;
+color: white;
+font-family: Tahoma, Verdana;
+text-align: center;
+background-color: red;
+display:none;
+border-radius: 5px;
+padding-top:20px;
+font-weight: bold;
+}
+div{
+text-align:center;
+}
+button{
+padding: 2%;
+font-size: 15px;
+}
+
+
+.chrono{
+color: white;
+font-size: 100px;
+font-family: Verdana, Comic sans serif;
+padding-top: 3%;
+padding-bottom: 3%;
+margin-top:3%;
+margin-bottom:3%;
+}
+
+.funcs{
+
+}
